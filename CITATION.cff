@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo o código, por favor cítalo como se indica a continuación."
+authors:
+  - family-names: "Tasiguano Burgos"
+    given-names: "Estefano"
+title: "Predicción de Inflación mediante Temporal Fusion Transformers con Variables Macroeconómicas y Análisis Textual"
+version: 1.0.0
+date-released: 2026-11-01
+url: "https://github.com/Stefano-Burgos/TFM-Prediccion-Inflacion"
